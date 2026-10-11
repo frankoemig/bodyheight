@@ -43,7 +43,7 @@ Severity:    #error
 
 
 
-CodeSystem: MeasuringType
+CodeSystem: MeasuringTypeCS
 Id: MeasuringType
 Title: "MeasuringType"
 Description: "**Measuring Type**"
@@ -64,7 +64,7 @@ Description: "**Measuring Type**"
 * #estimated "value is an estimation"
 
 
-ValueSet: MeasuringType
+ValueSet: MeasuringTypeVS
 Id: MeasuringType
 Title: "Measuring Type"
 Description: "**Measuring Type**"
